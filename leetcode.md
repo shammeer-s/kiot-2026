@@ -24,3 +24,15 @@
 * 797
 * 1129
 * 2642
+
+
+## Dynamic Programming 1
+* 70 (Already solved)
+* 509 (Already Solved)
+* 322
+* 198
+* 55
+* 2008
+* Rod Cutting Problem
+* HasSum
+* BestSum
