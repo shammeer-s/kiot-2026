@@ -30,9 +30,18 @@
 * 70 (Already solved)
 * 509 (Already Solved)
 * 322
-* 198
+* 198 (Already Solved)
 * 55
 * 2008
 * Rod Cutting Problem
 * HasSum
 * BestSum
+
+## Dynamic Programming 2
+* KnapSack
+* Rod Cutting Problem
+* 516
+* 5 (Hard)
+* 115
+* 1092
+* Frog Jump (Optional)
